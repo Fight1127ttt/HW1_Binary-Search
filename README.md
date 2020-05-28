@@ -1,6 +1,6 @@
 # Binary-Search
 
-## What is a binary search
+## What is the "Binary Search"
 
 A binary search algorithm is used to find the position of a specific value contained in a sorted array. 
 Working with the principle of divide and conquer, this search algorithm can be quite fast, but the caveat is that the data has to be in a sorted form. 
